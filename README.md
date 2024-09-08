@@ -4,8 +4,8 @@
 
 - [About](#about)
 - [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Deliverables](#deliverables)
+  - [Objectives](#objectives)
+  - [Deliverables](#deliverables)
 - [Data](#data)
 - [Links](#links)
 - [Key Insights](#key-insights)
