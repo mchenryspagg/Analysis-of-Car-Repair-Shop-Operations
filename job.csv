@@ -1,0 +1,12 @@
+JobID,VehicleID,Description,Hours,Rate,Amount,InvoiceID
+1,1,"Diagnose front wheel vibration",0.5,125.00,62.50,12345
+2,1,"Replace front CV Axel",3.5,125.00,437.50,12345
+3,1,"Balance tires",1.0,125.00,125.00,12345
+4,2,"Oil change",1.0,75.00,75.00,12346
+5,2,"Replace brake pads",2.0,125.00,250.00,12346
+6,3,"Replace battery",1.5,100.00,150.00,12347
+7,3,"Tire rotation",1.0,50.00,50.00,12347
+8,4,"Transmission check",2.0,150.00,300.00,12348
+9,4,"Replace air filter",0.5,50.00,25.00,12348
+10,5,"Coolant flush",1.5,120.00,180.00,12349
+11,5,"Replace spark plugs",2.0,130.00,260.00,12349

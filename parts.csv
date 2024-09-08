@@ -1,0 +1,11 @@
+PartID,JobID,Part#,PartName,Quantity,UnitPrice,Amount,InvoiceID
+1,2,23435,"CV Axel",1,876.87,876.87,12345
+2,2,7777,"Shop Materials",1,45.00,45.00,12345
+3,3,W187,"Wheel Weights",4,12.00,48.00,12345
+4,5,54321,"Brake Pads",1,200.00,200.00,12346
+5,6,67890,"Battery",1,120.00,120.00,12347
+6,7,11223,"Tire Rotation Kit",1,30.00,30.00,12347
+7,8,33445,"Transmission Fluid",1,100.00,100.00,12348
+8,9,99887,"Air Filter",1,25.00,25.00,12348
+9,10,77654,"Coolant",1,60.00,60.00,12349
+10,11,99876,"Spark Plugs",4,20.00,80.00,12349
